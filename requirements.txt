@@ -6,3 +6,5 @@ pandas
 pyppeteer
 matplotlib
 wget
+seaborn
+scikit-learn
