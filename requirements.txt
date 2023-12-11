@@ -8,3 +8,4 @@ matplotlib
 wget
 seaborn
 scikit-learn
+ipywidgets
